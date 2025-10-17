@@ -1,13 +1,10 @@
-## Olá Você 👋
+## <div align='center'>Olá Você 👋</div>
 
 Olá eu sou o João, e aqui estarei deixando algumas informações sobre mim e minha carreira/projetos.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats/actions">
     <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-    <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
   </a>
 </p>
 <!--

@@ -28,7 +28,7 @@
 
 - 💬 Me pergunte sobre **C#, JavaScript, Python e Game Development**.
 
-- 📫 Você pode me encontrar em: **seu-email@exemplo.com**
+- 📫 Você pode me encontrar em: **joaovitortbt@gmail.com** ou em **joaotrombetadev@gmail.com**
 <p align="center">
   <table align="center">
 <tr border="none">
